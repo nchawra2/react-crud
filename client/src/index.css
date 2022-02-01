@@ -1,0 +1,11 @@
+.st-img {
+  height: 140px;
+  width: 140px;
+}
+
+.activity-btns {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
